@@ -58,6 +58,6 @@ yarn
 
 ## start web server - if you want to add your own key please follow alternate directions
 
-echo please Load http://localhost:8080 in your web browser (or use the server's IP address if loading remotely). Then follow the instructions on the web page to set up domain and register. Once this is done you can load https://localhost:4443 in your web browser (or use the server's IP address if loading remotely).
+echo "please Load http://localhost:8080 in your web browser (or use the server's IP address if loading remotely). Then follow the instructions on the web page to set up domain and register. Once this is done you can load https://localhost:4443 in your web browser (or use the server's IP address if loading remotely)."
 
 npm start
